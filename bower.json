@@ -1,0 +1,32 @@
+{
+  "name": "angular_test",
+  "description": "a sample testing for a sample angular app",
+  "main": "index.js",
+  "authors": [
+    "Sarnendu Mukherjee"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "testing"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-resource": "^1.5.0",
+    "angular-route": "^1.5.0",
+    "angular-bootstrap": "^1.2.1",
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.5.0"
+  }
+}
